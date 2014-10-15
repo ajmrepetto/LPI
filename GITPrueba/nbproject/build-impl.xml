@@ -30,7 +30,7 @@ is divided into following sections:
     <target depends="test,jar,javadoc" description="Build and test whole project." name="default"/>
     <!-- 
                 ======================
-                INITIALIZATION SECTION 
+                INITIALIZATION SECTION       Viva la Pepa
                 ======================
             -->
     <target name="-pre-init">
