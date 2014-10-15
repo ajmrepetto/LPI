@@ -17,5 +17,6 @@ public class GITPrueba {
         // TODO code application logic here
         
         Prueba hecha en clase
+        Visto 
     }
 }
