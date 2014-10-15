@@ -15,6 +15,6 @@ public class PruebaGIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        /// TODO ESTO ES UNA PRUEBA GIT
+        /// TODO ESTO ES UNA PRUEBA GIT modificada hoy
     }
 }
